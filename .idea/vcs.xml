@@ -17,6 +17,7 @@
     <mapping directory="$PROJECT_DIR$/ScrapyCrawlSpider" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/TaobaoProduct" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/TestDjangoRestAPI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TouTiao" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/WeiboList" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Weixin" vcs="Git" />
   </component>
