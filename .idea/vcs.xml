@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AdslProxy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AttitudeDetection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AwesomeWebSpider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CookiesPool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CrackGeetest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DouYin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ElasticSearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Gerapy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GraphMovies" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Jiepai" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProxyPool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PyppeteerTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ScrapyCrawlSpider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TaobaoProduct" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TestDjangoRestAPI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WeiboList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Weixin" vcs="Git" />
+  </component>
+</project>
