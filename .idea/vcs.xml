@@ -20,5 +20,6 @@
     <mapping directory="$PROJECT_DIR$/TouTiao" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/WeiboList" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Weixin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crawl-lianjia" vcs="Git" />
   </component>
 </project>
