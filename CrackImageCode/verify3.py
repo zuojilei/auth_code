@@ -1,10 +1,10 @@
 import tesserocr
 from PIL import Image
 
-image = Image.open('code2.jpg')
+image = Image.open('bb.jpg')
 
 image = image.convert('L')
-threshold = 127
+threshold = 131
 table = []
 for i in range(256):
     if i < threshold:
@@ -13,7 +13,8 @@ for i in range(256):
         table.append(1)
 
 image = image.point(table, '1')
-# image.show()
+image.show()
 
 result = tesserocr.image_to_text(image)
+print('000000000000')
 print(result)
